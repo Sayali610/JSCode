@@ -65,7 +65,9 @@ console.log(!(7 > 10))
 //  git config --global user.email "you@example.com"
 //   git config --global user.name "Your Name"
 
-
+// git branch -M main
+// git remote add origin https://github.com/Sayali610/Js.git
+// git push -u origin main
 
 
 
