@@ -62,7 +62,8 @@ console.log(!(5 == 5))
 console.log(!(7 > 10))
 
 
-
+//  git config --global user.email "you@example.com"
+//   git config --global user.name "Your Name"
 
 
 
