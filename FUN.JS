@@ -27,7 +27,7 @@ console.log(sum)
 
 //2. function expression
 
-let add1 = function (a, b) {
+let add1 = function (a, b){
     return (a + b)
 }
 let sum1 = add1(2, 2)
@@ -56,6 +56,35 @@ let multip = () => {
     console.log(3 * 3)
 }
 multip()
+
+
+//3 type
+// function declaration
+
+function Add(x, y) {
+    return x + y
+}
+let result = Add(2, 3)
+console.log(result)
+
+
+//function expression
+let Add1 = function (a, b) {
+    return a + b
+}
+let result1 = Add1(2, 3)
+console.log(result1)
+
+//x+y
+x=20-y
+
+// arrow function //ES6
+let Add2 = (a, b) => {
+    return a + b
+}
+let result2 = Add2(2, 3)
+console.log(result2)
+
 
 
 
