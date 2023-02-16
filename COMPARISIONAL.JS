@@ -73,6 +73,10 @@ console.log(!(7 > 10))
 // git branch -M main
 // git push -u origin main
 
+// git branch -M main
+// git remote add origin https://github.com/Sayali610/JSCode.git
+// git push -u origin main
+
 
 
 
